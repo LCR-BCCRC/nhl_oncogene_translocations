@@ -1,0 +1,46 @@
+ICC_class	seq_type	tissue_status	publication	n
+BL	capture	tumour	NA	5
+BL	genome	tumour	Grande 2019/Thomas 2023	207
+BL	mrna	tumour	Grande 2019/Thomas 2023	188
+BL	mrna	tumour	NA	4
+DLBCL	capture	tumour	Chong 2018	15
+DLBCL	capture	tumour	NA	72
+DLBCL	genome	tumour	Arthur 2018	64
+DLBCL	genome	tumour	Hilton 2019	12
+DLBCL	genome	tumour	Hilton 2023	61
+DLBCL	genome	tumour	Morin 2013	36
+DLBCL	genome	tumour	NA	7
+DLBCL	mrna	tumour	Arthur 2018	48
+DLBCL	mrna	tumour	Ennishi 2019	73
+DLBCL	mrna	tumour	Hilton 2023	54
+DLBCL	mrna	tumour	NA	83
+FL	capture	tumour	Chong 2018	12
+FL	capture	tumour	NA	1
+FL	genome	tumour	Dreval 2023	78
+FL	genome	tumour	Hilton 2023	6
+FL	genome	tumour	Kridel 2015	46
+FL	mrna	tumour	Dreval 2023	77
+FL	mrna	tumour	Hilton 2023	16
+FL	mrna	tumour	NA	2
+HGBCL-DH-BCL2	capture	tumour	Chong 2018	70
+HGBCL-DH-BCL2	capture	tumour	NA	151
+HGBCL-DH-BCL2	genome	tumour	Arthur 2018	10
+HGBCL-DH-BCL2	genome	tumour	Dreval 2023	1
+HGBCL-DH-BCL2	genome	tumour	Hilton 2019	6
+HGBCL-DH-BCL2	genome	tumour	Hilton 2023	7
+HGBCL-DH-BCL2	genome	tumour	Kridel 2015	4
+HGBCL-DH-BCL2	genome	tumour	Morin 2013	2
+HGBCL-DH-BCL2	genome	tumour	NA	4
+HGBCL-DH-BCL2	mrna	tumour	Arthur 2018	7
+HGBCL-DH-BCL2	mrna	tumour	Dreval 2023	1
+HGBCL-DH-BCL2	mrna	tumour	Ennishi 2019	35
+HGBCL-DH-BCL2	mrna	tumour	Hilton 2023	6
+HGBCL-DH-BCL2	mrna	tumour	NA	147
+HGBCL-DH-BCL6	capture	tumour	Chong 2018	7
+HGBCL-DH-BCL6	capture	tumour	NA	31
+HGBCL-DH-BCL6	genome	tumour	Hilton 2023	2
+HGBCL-DH-BCL6	genome	tumour	Kridel 2015	1
+HGBCL-DH-BCL6	genome	tumour	NA	1
+HGBCL-DH-BCL6	mrna	tumour	Ennishi 2019	3
+HGBCL-DH-BCL6	mrna	tumour	Hilton 2023	3
+HGBCL-DH-BCL6	mrna	tumour	NA	21

@@ -1,0 +1,2 @@
+estimate	p.value	conf.low	conf.high	method	alternative
+1.6941394319893717	0.2943560959283463	0.6855811484085358	4.275485348923994	Fisher's Exact Test for Count Data	two.sided

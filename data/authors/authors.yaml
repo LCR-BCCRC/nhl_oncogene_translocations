@@ -1,0 +1,391 @@
+author:
+  - name: Laura K. Hilton
+    affiliations:
+      [clc, sfu_mbb]
+    degrees:
+      "PhD" 
+    attributes: 
+      corresponding
+    email: 
+      lhilton@bccrc.ca
+  - name: Brett Collinge
+    affiliations:
+      [clc, ubc_path]
+    degrees:
+      "BSc"
+  - name: Susana Ben-Neriah
+    affiliations:
+      clc
+    degrees:
+      "MSc"
+  - name: Waleed Alduaij
+    affiliations:
+      clc
+    degrees:
+      ["MD", "PhD"]
+  - name: Haya Shaalan
+    affiliations:
+      sfu_mbb
+    degrees:
+      "BSc"
+  - name: Andrew P. Weng
+    affiliations:
+      tfl
+    degrees:
+      "PhD"
+  - name: Manuela Cruz
+    affiliations:
+      sfu_mbb
+    degrees:
+      "BSc"
+  - name: Graham W. Slack
+    affiliations:
+      [clc, ubc_path]
+    degrees:
+      "MD"
+  - name: Pedro Farinha
+    affiliations:
+      [clc, ubc_path]
+    degrees:
+      ["MD", "PhD"]
+  - name: Tomoko Miyata-Takata
+    affiliations:
+      clc # Check
+    degrees:
+      "MD" 
+  - name: Merrill Boyle
+    affiliations:
+      clc
+    degrees:
+      "BSc"
+  - name: Barbara Meissner
+    affiliations:
+      clc
+    degrees:
+      "PhD"
+  - name: James R. Cook
+    affiliations:
+      "cleveland"
+    degrees:
+      ["MD", "PhD"]
+  - name: Sarah L. Ondrejka
+    affiliations: 
+      "cleveland"
+  - name: German Ott
+    affiliations:
+      bosch
+    degrees:
+      ["MD"]
+  - name: Andreas Rosenwald
+    affiliations:
+      wurzburg
+    degrees:
+      ["MD"]
+  - name: Elias Campo
+    affiliations:
+      [barcelona]
+    degrees:
+      ["MD"]
+  - name: Catalina Amador
+    affiliations:
+      miami
+    degrees:
+      "MD"
+  - name: Timothy C. Greiner
+    affiliations:
+      unmc
+    degrees:
+      "MD"
+  - name: Philipp W. Raess
+    affiliations:
+      ohsu
+    degrees:
+      ["MD", "PhD"]
+  - name: Joo Y. Song
+    affiliations:
+      cityofhope
+    degrees:
+      "MD"
+  - name: Giorgio Inghirami
+    affiliations:
+      wcm
+    degrees:
+      "MD"
+  - name: Elaine S. Jaffe
+    affiliations:
+      nci_path
+    degrees:
+      MD
+  - name: Dennis D. Weisenburger
+    affiliations:
+      unmc
+    degrees:
+      "MD"
+  - name: Wing C. Chan
+    affiliations:
+      cityofhope
+    degrees:
+      "MD"
+  - name: Klaus Beiske
+    affiliations:
+      oslo
+    degrees:
+      ["MD", "PhD"]
+  - name: Kai Fu
+    affiliations:
+      roswell
+    degrees:
+      ["MD", "PhD"]
+  - name: Jan Delabie
+    affiliations:
+      uoft
+    degrees:
+      ["MD", "PhD"]
+  - name: Stefania Pittaluga
+    affiliations:
+      nci_path
+    degrees:
+      "MD"
+  - name: Javeed Iqbal
+    affiliations: 
+      unmc
+  - name: George Wright
+    affiliations:
+      nci_bio
+    degrees:
+      "PhD"
+  - name: Laurie H. Sehn
+    affiliations:
+      [clc, medonc]
+    degrees:
+      "MD"
+  - name: Kerry J. Savage
+    affiliations:
+      [clc, medonc]
+    degrees:
+      "MD"
+  - name: Andrew J. Mungall
+    affiliations:
+      gsc
+    degrees:
+      "PhD"
+  - name: Andrew L. Feldman
+    affiliations:
+      mayo_mn
+    degrees:
+      "MD"
+  - name: Louis M. Staudt
+    affiliations:
+      nci_lymph
+    degrees:
+      "MD"
+  - name: Christian Steidl
+    affiliations:
+      [clc, ubc_path]
+    degrees:
+      ["MD", "PhD"]
+  - name: Lisa M. Rimsza
+    affiliations:
+      mayo_az
+    degrees:
+      "MD"
+  - name: Ryan D. Morin
+    affiliations:
+      [clc, sfu_mbb, gsc]
+    degrees:
+      "PhD"
+  - name: David W. Scott
+    affiliations:
+      [clc, medonc]
+    degrees:
+      ["MBChB", "PhD"]
+    email: "dscott8@bccancer.bc.ca"
+    attributes:
+      corresponding
+affiliations:
+  clc:
+    name: BC Cancer
+    department: Centre for Lymphoid Cancer
+    city: Vancouver
+    state: BC
+    country: Canada
+  sfu_mbb:
+    name: Simon Fraser University
+    department: Department of Molecular Biology and Biochemistry
+    city: Burnaby
+    state: BC
+    country: Canada
+  ubc_path:
+    name: University of British Columbia
+    department: Department of Pathology and Laboratory Medicine
+    city: Vancouver
+    state: BC
+    country: Canada
+  gsc:
+    name: BC Cancer Research Institute
+    department: Canada's Michael Smith Genome Sciences Centre
+    city: Vancouver
+    state: BC
+    country: Canada
+  molonc:
+    name: BC Cancer Research Institute
+    department: Department of Molecular Oncology
+    city: Vancouver
+    state: BC
+    country: Canada
+  medonc:
+    name: University of British Columbia
+    department: Division of Medical Oncology, Department of Medicine
+    city: Vancouver
+    state: BC
+    country: Canada
+  moffitt:
+    name: H. Lee Moffitt Cancer Center & Research Institute
+    department: Department of Blood and Marrow Transplant and Cellular Immunotherapy
+    city: Tampa
+    state: FL
+  medgen:
+    name: University of British Columbia
+    department: Department of Medical Genetics
+    city: Vancouver
+    state: BC
+    country: Canada
+  pmcc:
+    name: University Health Network
+    department: Princess Margaret Cancer Center
+    city: Toronto
+    state: "ON"
+    country: Canada
+  cctg:
+    name: Queens University
+    department: Canadian Cancer Trials Group
+    city: Kingston
+    state: "ON"
+    country: Canada
+  qmed:
+    name: Queens University
+    department: Department of Medicine
+    city: Kingston
+    state: "ON"
+    country: Canada
+  tfl: 
+    name: BC Cancer Research Institute
+    department: Terry Fox Laboratory
+    city: Vancouver
+    state: BC
+    country: Canada
+  cleveland: 
+    name: Cleveland Clinic
+    department: Department of Pathology and Laboratory Medicine
+    city: Cleveland
+    state: OH
+    country: USA
+  bosch: 
+    name: Robert-Bosch-Krankenhaus and Dr. Margarete Fischer-Bosch Institute of Clinical Pharmacology
+    department: Department of Clinical Pathology
+    city: Stuttgart
+    state: 
+    country: Germany
+  wurzburg: 
+    name: University of Wurzburg
+    department: Institute of Pathology
+    city: Wurzburg
+    state: 
+    country: Germany
+  barcelona: 
+    name: Hospital Clinic of Barcelona, Institut d'Investigaciones Biomediques August Pi I Sunyer (IDIBAPS), University of Barcelona
+    department: Hematopathology Section
+    city: Barcelona
+    state: 
+    country: Spain
+  miami: 
+    name: University of Miami Miller School of Medicine
+    department: Department of Pathology and Laboratory Medicine
+    city: Miami
+    state: FL
+    country: USA
+  unmc: 
+    name: University of Nebraska Medical Center
+    department: Department of Pathology, Microbiology and Immunology
+    city: Omaha
+    state: NE
+    country: USA
+  ohsu: 
+    name: Oregon Health & Science University
+    department: Department of Pathology and Laboratory Medicine
+    city: Portland
+    state: OR
+    country: USA
+  cityofhope:
+    name: City of Hope
+    department: Department of Pathology
+    city: Duarte
+    state: CA
+    country: USA
+  nci_path: 
+    name: Center for Cancer Research, National Cancer Institute
+    department: Laboratory of Pathology
+    city: Bethesda
+    state: MD
+    country: USA
+  wcm: 
+    name: Weill Cornell Medicine
+    department: Department of Pathology and Laboratory Medicine, 
+    city: New York
+    state: NY
+    country: USA
+  oslo: 
+    name: Institute for Cancer Research, Oslo University Hospital
+    department: Department of Pathology
+    city: Oslo
+    state: 
+    country: USA
+  uoft: 
+    name: University of Toronto
+    department: Department of Laboratory Medicine and Pathobiology
+    city: Toronto
+    state: "ON"
+    country: Canada
+  nci_bio: 
+    name: National Cancer Institute, National Institutes of Health
+    department: Division of Cancer Treatment and Diagnosis
+    city: Bethesda
+    state: MD
+    country: USA
+  nci_lymph: 
+    name: National Cancer Institute, National Institutes of Health
+    department: Lymphoid Malignancies Branch
+    city: Bethesda
+    state: MD
+    country: USA
+  mayo_mn: 
+    name: Mayo Clinic
+    department: Department of Laboratory Medicine and Pathology
+    city: Rochester
+    state: MN
+    country: USA
+  mayo_az: 
+    name: Mayo Clinic
+    department: Department of Laboratory Medicine and Pathology
+    city: Scottsdale
+    state: AZ
+    country: USA
+  roswell: 
+    name: Roswell Park Comprehensive Cancer Center
+    department: Department of Pathology and Laboratory Medicine
+    city: Buffalo
+    state: NY
+    country: USA
+    
+  
+  
+
+abstract:
+  []
+
+acknowledgements:
+  []
+  
+cois: []
+
+figure_legends: []

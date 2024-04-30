@@ -1,0 +1,5 @@
+.y.	group1	ICC_class	group2	n1	n2	statistic	p	p.adj	p.adj.signif
+expression	DLBCL_None	DLBCL	BCL2-R	73	55	550	2.33e-12	3.11e-12	****
+expression	DLBCL_None	FL	BCL2-R	73	77	457	8.96e-19	1.79e-18	****
+expression	DLBCL_None	FL	None	73	11	164	0.002	0.002	**
+expression	DLBCL_None	HGBCL-DH-BCL2	BCL2-R	73	151	1446	3.84e-19	1.54e-18	****

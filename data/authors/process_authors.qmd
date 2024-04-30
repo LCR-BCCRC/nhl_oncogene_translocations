@@ -1,0 +1,12 @@
+```{r process_authors}
+library(tidyverse)
+
+source("/projects/rmorin/projects/DLBCL_Trios/DLBCL_Trios_Manuscript/src/process_authors.R")
+
+authors <- process_authors("authors.yaml")
+
+```
+
+`r authors$parsed_authors`
+
+`r authors$parsed_affiliations`

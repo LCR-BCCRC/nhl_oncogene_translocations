@@ -1,0 +1,17 @@
+.y.	group1	ICC_class	group2	n1	n2	statistic	p	p.adj	p.adj.signif
+expression	DLBCL_None	BL	False Negative	120	5	142	0.047	0.058	*
+expression	DLBCL_None	BL	IGH	120	146	1725	1.9100000000000002e-29	3.06e-28	****
+expression	DLBCL_None	BL	IGK	120	15	335	7.74e-5	1.77e-4	***
+expression	DLBCL_None	BL	IGL	120	19	608	0.001	0.002	**
+expression	DLBCL_None	DLBCL	False Negative	120	2	44	0.128	0.146	ns
+expression	DLBCL_None	DLBCL	IGH	120	19	252	5.28e-8	1.69e-7	****
+expression	DLBCL_None	DLBCL	IGK	120	1	28	0.367	0.367	ns
+expression	DLBCL_None	DLBCL	IGL	120	2	17	0.039	0.052	*
+expression	DLBCL_None	DLBCL	Other non-IG	120	3	109	0.248	0.265	ns
+expression	DLBCL_None	DLBCL	PAX5/ BCL6	120	4	80	0.024	0.039	*
+expression	DLBCL_None	HGBCL-DH-BCL2	False Negative	120	12	441	0.028	0.04	*
+expression	DLBCL_None	HGBCL-DH-BCL2	IGH	120	36	400	1.35e-13	1.08e-12	****
+expression	DLBCL_None	HGBCL-DH-BCL2	IGK	120	6	71	9.5e-4	0.002	**
+expression	DLBCL_None	HGBCL-DH-BCL2	IGL	120	20	231	8.05e-9	4.29e-8	****
+expression	DLBCL_None	HGBCL-DH-BCL2	Other non-IG	120	38	1167	6.01e-6	1.6e-5	****
+expression	DLBCL_None	HGBCL-DH-BCL2	PAX5/ BCL6	120	36	865	5.18e-8	1.69e-7	****

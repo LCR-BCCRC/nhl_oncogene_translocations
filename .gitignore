@@ -1,0 +1,26 @@
+# Large files
+results/expression/vst_matrix.tsv
+data/maf/sigprofiler_exposures.tsv
+data/maf/sigprofiler_proportions.tsv
+results/expression/uncorrected_vst_matrix.tsv
+
+
+# Hidden files
+.RData
+.RDataTmp*
+results/.DS_Store
+.Rhistory
+.Rproj.user
+.snakemake
+.vscode
+
+# Temp/misc files
+tmp/
+results/expression/DZgroups/
+src/expression/differential_expression_lz_dz.R
+data/flow_data/discordant_mixcr_sIg.tsv
+igvbatch.txt
+
+# Private data
+data/metadata/rearrangements_found_by_sequencing.tsv
+

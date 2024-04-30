@@ -1,0 +1,4 @@
+which_bp	.y.	group1	group2	n1	n2	statistic	p
+MYC	coverage	TRUE_POS	FALSE_NEG	373	50	8101	0.103
+BCL2	coverage	TRUE_POS	FALSE_NEG	337	13	2312	0.662
+BCL6	coverage	TRUE_POS	FALSE_NEG	117	26	1723	0.855

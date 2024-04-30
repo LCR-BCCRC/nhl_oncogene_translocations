@@ -1,0 +1,4 @@
+.y.	group1	group2	n1	n2	statistic	p	p.adj	p.adj.signif	y.position	groups	real_group2
+expression	None	IGH	180	11	190	7.06e-6	2.12e-5	****	15.58592		IGH
+expression	None	Other non-IG	180	7	296	0.018	0.026	*	16.1603		Non-IG
+expression	None	False Negative	180	4	263	0.36	0.36	ns	16.73468		False Negative

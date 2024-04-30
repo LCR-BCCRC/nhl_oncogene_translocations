@@ -1,0 +1,4 @@
+which_bp	table	test	estimate	p.value	conf.low	conf.high	method	alternative
+MYC			2.238221265837009	0.043311841818065244	0.9911682709140308	5.722217559674315	Fisher's Exact Test for Count Data	two.sided
+BCL2			1.256474407656499	0.7777396411841628	0.34128098148978775	5.709213715529348	Fisher's Exact Test for Count Data	two.sided
+BCL6			1.2196416830221208	0.8189227762472555	0.45230438560403574	3.5579929483513744	Fisher's Exact Test for Count Data	two.sided

@@ -1,0 +1,13 @@
+file_name	data_path
+05-24065T.genome.grch37.cram	/projects/analysis/analysis32/B60016/merge46788_bwa-mem-0.7.6a-sb/150bp/hg19a/B60016_2_lanes_dupsFlagged.cram
+05-33344T.genome.grch37.cram	/projects/analysis/analysis32/B59997/merge46418_bwa-mem-0.7.6a-sb/150bp/hg19a/B59997_2_lanes_dupsFlagged.cram
+07-10483T.genome.grch37.cram	/projects/analysis/analysis32/B60015/merge46577_bwa-mem-0.7.6a-sb/150bp/hg19a/B60015_2_lanes_dupsFlagged.cram
+07-11788T.genome.grch37.cram	/projects/analysis/analysis32/B60000/merge46410_bwa-mem-0.7.6a-sb/150bp/hg19a/B60000_2_lanes_dupsFlagged.cram
+07-13339T.genome.grch37.cram	/projects/analysis/analysis32/B60001/merge46408_bwa-mem-0.7.6a-sb/150bp/hg19a/B60001_2_lanes_dupsFlagged.cram
+08-15555T.genome.grch37.cram	/projects/analysis/analysis32/B60002/merge46409_bwa-mem-0.7.6a-sb/150bp/hg19a/B60002_2_lanes_dupsFlagged.cram
+10-27119T.genome.grch37.cram	/projects/analysis/analysis32/B60013/merge46549_bwa-mem-0.7.6a-sb/150bp/hg19a/B60013_2_lanes_dupsFlagged.cram
+12-34927T.genome.grch37.cram	/projects/analysis/analysis32/B60006/merge46530_bwa-mem-0.7.6a-sb/150bp/hg19a/B60006_2_lanes_dupsFlagged.cram
+13-42815T.genome.grch37.cram	/projects/analysis/analysis32/B60007/merge46537_bwa-mem-0.7.6a-sb/150bp/hg19a/B60007_2_lanes_dupsFlagged.cram
+14-14094T.genome.grch37.cram	/projects/analysis/analysis32/B60008/merge46538_bwa-mem-0.7.6a-sb/150bp/hg19a/B60008_2_lanes_dupsFlagged.cram
+17-33848_tumorB.genome.grch37.cram	/projects/analysis/analysis34/F81404/merge76051_bwa-mem-0.7.6a-sb/150bp/hg19a/F81404_2_lanes_dupsFlagged.cram
+18-36878_tumorB.genome.grch37.cram	/projects/analysis/analysis33/F81406/merge76029_bwa-mem-0.7.6a-sb/150bp/hg19a/F81406_2_lanes_dupsFlagged.cram

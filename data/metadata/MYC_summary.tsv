@@ -1,0 +1,11 @@
+ICC_class	seq_type	NEG	POS	NA	FAIL
+BL	capture	0	5	0	0
+BL	genome	6	99	102	0
+DLBCL	capture	28	56	0	1
+DLBCL	genome	160	4	10	0
+FL	capture	0	13	0	0
+FL	genome	73	5	52	0
+HGBCL-DH-BCL2	capture	5	212	0	0
+HGBCL-DH-BCL2	genome	5	7	0	0
+HGBCL-DH-BCL6	capture	0	37	0	0
+HGBCL-DH-BCL6	genome	0	3	0	0
